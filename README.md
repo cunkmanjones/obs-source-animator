@@ -5,7 +5,7 @@
 # General Info
 A Python Script that allows the use of easing functions and anchor points to animate the size of a Source. 
 > [!WARNING]
-> This script was created using **Python 3.6.8** & **OBS v27.2.4 (64-bit)** and has **<ins>NOT</ins>** been tested with other verions. 
+> Created using **Python 3.6.8** & **OBS v27.2.4 (64-bit)** and has **<ins>NOT</ins>** been tested with other versions. 
 
 # Installation
 ## Preparation
